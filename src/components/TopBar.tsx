@@ -1,5 +1,3 @@
-// TopBar.tsx
-// import { Moon, Sun } from 'lucide-react';
 import logo from '../assets/logo.png';
 import ThemeToggle from './ThemeToggle';
 

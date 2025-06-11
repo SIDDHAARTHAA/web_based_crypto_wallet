@@ -1,7 +1,7 @@
 const BottomComponent = () => {
     return (
         <div className="mt-auto py-6 text-sm text-gray-600 dark:text-gray-400">
-            Designed and developed by{' '}
+            Designed and developed by{'z '}
             <a 
                 href="https://twitter.com/yourtwitterhandle" 
                 target="_blank" 
