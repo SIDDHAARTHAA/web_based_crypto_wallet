@@ -1,4 +1,3 @@
-// App.tsx
 import { Toaster } from 'react-hot-toast';
 import LandingComponent from "./components/LandingComponent";
 import TopBar from "./components/TopBar";

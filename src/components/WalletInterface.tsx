@@ -1,4 +1,3 @@
-// Me\web-3 wallet app\src\components\WalletInterface.tsx
 import { useState } from 'react';
 import { Eye, EyeOff, Copy, Trash2, Grid, List } from 'lucide-react';
 import ChainSelector from './ChainSelector';
