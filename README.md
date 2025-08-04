@@ -27,8 +27,8 @@ ChainVault is a modern, open-source web wallet supporting multiple blockchains (
 ### Installation
 
 ```sh
-git clone https://github.com/yourusername/chainvault.git
-cd chainvault
+git clone https://github.com/SIDDHAARTHAA/web_based_crypto_wallet.git
+cd web_based_crypto_wallet
 npm install
 ```
 
