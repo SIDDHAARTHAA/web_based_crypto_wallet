@@ -88,13 +88,6 @@ npm run preview
 - **Never share your private keys or secret phrases.**
 - This project is for educational/demo purposes. Do not use with real funds.
 
----
-
-## License
-
-MIT
-
----
 
 ## Credits
 
@@ -108,4 +101,4 @@ MIT
 
 ## Author
 
-Made by [Sid](https://twitter.com/yourtwitterhandle)
+Made by [Sid](https://x.com/sid_likescoding)
